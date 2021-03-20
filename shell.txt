@@ -4,25 +4,64 @@
 # ler um arquivo .txt
 type arquivo.txt 
 
-
+---------------------------------------------------
 # deletar um arquivo
 del arquivo.txt
 
-
+---------------------------------------------------
 #criando arquivo;
 echo <mensagem> > <nome.txt>
 
-
+---------------------------------------------------
 # ler um diretorio
 dir
 
-
+---------------------------------------------------
 # Ordenar por tamanho do arquivo:
 dir /O:S
 
+---------------------------------------------------
 # Ordenar por data:
 dir /O:|D
 
+---------------------------------------------------
 # Lista todo o diretorio anterior;
 dir ..
+
+---------------------------------------------------
+# acessando HD ou Midia;
+# Pen drive mapeado na unidade E
+E:
+C:\Users\Marcio\Documents>E:
+
+---------------------------------------------------
+E:\>dir
+ O volume na unidade E é MA_8GB
+ O Número de Série do Volume é 4480-836A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
