@@ -12,6 +12,8 @@ del arquivo.txt
 #criando arquivo;
 echo <mensagem> > <nome.txt>
 
+echo <nome_arquivo.txt>
+
 ---------------------------------------------------
 # ler um diretorio
 dir
@@ -69,21 +71,44 @@ mkdir <diretorio>
 # remove diretórios
 
 rmdir <diretorio>
+
+---------------------------------------------------
+# git commit -m "comandos.v4"
+---------------------------------------------------
+# copy = cria uma copia do arquivo.
+# copy 
+
+# criar na mesma pasta:
+bigdata> copy GITH_PATH.txt GITH_PATH2.txt
+
+
+# em diretorio diferentes:
+# copy <origem> <destino>
+bigdata> copy GITH_PATH.txt C:\Users\Marcio\Documents\GitHub
+
+---------------------------------------------------
+# move
+# move um arquivo para outra pasta/diretorio
+
+move <arquivo.txt> <destino>
+
+---------------------------------------------------
+# rename
+# rename <nome_atual> <novo_nome>
+
+---------------------------------------------------
+# git commit -m "comandos.v5"
+---------------------------------------------------
+
+
+
 ---------------------------------------------------
 
 
 ---------------------------------------------------
 
 
-
 ---------------------------------------------------
-
-
----------------------------------------------------
-
-
----------------------------------------------------
-
 
 
 
