@@ -16,3 +16,13 @@ echo <mensagem> > <nome.txt>
 # ler um diretorio
 dir
 
+
+# Ordenar por tamanho do arquivo:
+dir /O:S
+
+# Ordenar por data:
+dir /O:|D
+
+# Lista todo o diretorio anterior;
+dir ..
+
