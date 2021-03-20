@@ -1,2 +1,18 @@
 * comandos shell *
 
+
+# ler um arquivo .txt
+type arquivo.txt 
+
+
+# deletar um arquivo
+del arquivo.txt
+
+
+#criando arquivo;
+echo <mensagem> > <nome.txt>
+
+
+# ler um diretorio
+dir
+
