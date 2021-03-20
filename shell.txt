@@ -100,7 +100,26 @@ move <arquivo.txt> <destino>
 # git commit -m "comandos.v5"
 ---------------------------------------------------
 
+# systeminfo
+- informações do sistema
 
+# taskkill
+- encerrar um aplicativo;
+
+taskkill /f /im <aplicativo.exe>
+- /f = força o encerramento
+- /im = nome do aplicativo
+
+# sfc /scannow = utilizar como adm;
+
+
+# shutdown --> shutdown -s -t 0
+
+# shutdown reiniciar --> shutdown -r -t 0
+
+# cancelar shutdown --> shutdown -a
+
+# verificar as portas do pc --> netstat
 
 ---------------------------------------------------
 
@@ -110,6 +129,14 @@ move <arquivo.txt> <destino>
 
 ---------------------------------------------------
 
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
 
 
 
