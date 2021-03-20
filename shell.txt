@@ -39,11 +39,43 @@ E:\>dir
  O Número de Série do Volume é 4480-836A
 
 ---------------------------------------------------
-# comando tree
+# tree
 # lista a arvore dos diretorios;
 
 tree
 
+C:\Users\Marcio\Documents>tree
+Listagem de caminhos de pasta
+O número de série do volume é CE3B-659B
+C:.
+├───AWS
+├───GitHub
+│   ├───bigdata
+│   ├───git-primeiros-passos
+│   └───Shell
+├───Modelos Personalizados do Office
+├───Python Scripts
+└───Semantix Admissão
+    └───Documentos
+
+---------------------------------------------------
+# mkdir
+# cria diretórios
+
+mkdir <diretorio>
+
+---------------------------------------------------
+# rmdir
+# remove diretórios
+
+rmdir <diretorio>
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+
 ---------------------------------------------------
 
 
@@ -51,12 +83,6 @@ tree
 
 
 ---------------------------------------------------
-
-
----------------------------------------------------
-
-
-
 
 
 
